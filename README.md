@@ -1,7 +1,5 @@
-# testRepo
+Hi!
 
-some more text
+I have started learn coding and this is my first Repo.
 
-fix2 changes
-
-fix4 new branch
+Kinda hard lmao
